@@ -14,7 +14,7 @@ An interactive visual novel built in Unity, featuring branching choices and play
 - Player-driven narrative progression
 - Simple and readable project structure
 
-  ## Built With
+## Built With
 
-  - Unity
-  - C#
+- Unity
+- C#
